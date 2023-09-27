@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, ı'm neslişah ebral durdu</h1>
-<h3 align="center">kocaeli üniversitesi-bilişim sistemleri mühendisliği/4</h3>
+<h3 align="center">Information System Engineer</h3>
 
 - 🌱 I’m currently learning **react.js**
 
