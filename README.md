@@ -1,4 +1,4 @@
-<h1 align="center">hi 👋, ı'm neslişah ebral durdu</h1>
+<h1 align="center">hi 👋, I'm Neslişah Ebral Durdu</h1>
 <h3 align="center">Information System Engineer</h3>
 
 - 🌱 I’m currently learning **react.js**
