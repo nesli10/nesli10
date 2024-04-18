@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react.js** and **Grails**
 
-- 💬 **react.js,laravel,php,javascript,mysql,html,css,grails,next.js,java**
+- 💬 **react.js,laravel,php,javascript,mysql,html,css,grails,next.js,java,mssql**
 
 - 📫 How to reach me **nestay2001@gmail.com**
 
