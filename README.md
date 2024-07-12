@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **nestay2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gQpoHgZxEYMYSs3TjxTRLM8VyDYxv7Ws/view?usp=share_link](https://drive.google.com/file/d/1gQpoHgZxEYMYSs3TjxTRLM8VyDYxv7Ws/view?usp=share_link](https://drive.google.com/file/d/11kr1wa78Yu1Q6Rm8ATGntyS9NnW0K3I_/view?usp=drive_link)
 
 
 <h3 align="left">Languages and Tools:</h3>
