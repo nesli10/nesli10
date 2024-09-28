@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning  **Java**
 
-- 💬 **react.js,laravel,php,javascript,mysql,html,css,grails,next.js,java,mssql**
+- 💬 **react.js,laravel,php,javascript,mysql,html,css,grails,next.js,java,mssql,postgresql**
 
 - 📫 How to reach me **neslisahebraldurdu@gmail.com**
 
