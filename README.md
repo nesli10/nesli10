@@ -5,7 +5,7 @@
 
 - 💬 **react.js,laravel,php,javascript,mysql,html,css,grails,next.js,java,mssql**
 
-- 📫 How to reach me **nestay2001@gmail.com**
+- 📫 How to reach me **neslisahebraldurdu@gmail.com**
 
 
 
