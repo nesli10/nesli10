@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋, I'm Neslişah Ebral Durdu</h1>
 <h3 align="center">Information System Engineer</h3>
 
-- 🌱 I’m currently learning  **Java**
+- 🌱 I’m currently learning  **Data Analytics**
 
 - 💬 **react.js,laravel,php,javascript,mysql,html,css,grails,next.js,java,mssql,postgresql**
 
