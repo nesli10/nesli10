@@ -42,11 +42,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Power_BI_Logo_2022.svg/1200px-Power_BI_Logo_2022.svg.png" alt="Power BI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://community.jaspersoft.com/project/ireport-designer" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/iReport_Logo.png/1280px-iReport_Logo.png" alt="iReport" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ireport/ireport-original.svg" alt="iReport" width="40" height="40"/>
   </a>
 </p>
+
 
 
